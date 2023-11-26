@@ -13,7 +13,7 @@ Config.DrugDealerItems = {
 Config.LicenseEnable = false -- enable processing licenses? The player will be required to buy a license in order to process drugs. Requires esx_license
 
 Config.LicensePrices = {
-	weed_processing = {label = TranslateCap('license_weed'), price = 15000}
+	weed_processing = {label = TranslateCap('license_weed'), price = 3000}
 }
 
 Config.GiveBlack = true -- give black money? if disabled it'll give regular cash.
